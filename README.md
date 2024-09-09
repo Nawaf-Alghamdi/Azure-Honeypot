@@ -1,10 +1,10 @@
 <h1>Azure Sentinel-Honeypot Project</h1>
 <h2>Description</h2>
-<b>This PowerShell script parses Windows Event Log data for failed RDP attacks and uses a third-party API to retrieve geographic information about the attackers' locations.
+<b>The provided PowerShell script is designed to analyze Windows Event Log data in order to detect failed RDP attacks, following which it utilizes a third-party API to gather geographic details about the locations of the attackers.
 </b>
 <br />
 <br />
-In this demonstration, I set up Azure Sentinel (SIEM) and connect it to a live virtual machine acting as a honeypot. We'll observe live RDP brute force attacks from around the world. Using a custom PowerShell script, I will look up the attackers' geolocation information and plot it on an Azure Sentinel map.
+For this project, I established Azure Sentinel (SIEM) and linked it to a running virtual machine that is functioning as a honeypot. We will be witnessing real-time RDP brute force attacks from various locations globally. With the help of a personalized PowerShell script, I plan to retrieve the geographical details of the attackers and display them on a map within Azure Sentinel.
 <br />
 <br />
 
