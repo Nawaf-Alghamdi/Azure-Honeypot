@@ -21,7 +21,8 @@ In this demonstration, I set up Azure Sentinel (SIEM) and connect it to a live v
 
 <h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
 
-<img width="1521" alt="Screenshot 2024-07-17 at 1 28 55 PM" src="https://github.com/user-attachments/assets/fd9272dd-0ea2-4164-9e64-c249b5ed8f44">
+![image](https://github.com/user-attachments/assets/8e51b581-ca81-46e4-840f-5751f8b88835)
+
 
 
 <!--
