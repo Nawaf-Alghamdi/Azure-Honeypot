@@ -8,7 +8,6 @@ In this demonstration, I set up Azure Sentinel (SIEM) and connect it to a live v
 <br />
 <br />
 
-<img width="1920" alt="Screenshot 2024-07-17 at 12 36 38 PM" src="https://github.com/user-attachments/assets/e952668f-7ce3-4900-92db-79b5ff5dd7fa">
 
 <h2>Languages Used</h2>
 
